@@ -28,7 +28,7 @@ baseurl: ""
 # Website Header, Description, Footer year and text. 
 # If you are deleting this, make sure you remove it from HTML files too 
 heading: Nikhil Vishnu # Change this 
-content: Obsidian ready Jekyll Theme
+content: Product Management, Books and More 
 copyright:  
   year: © 2024
   msg: Contents under CC-BY-NC 

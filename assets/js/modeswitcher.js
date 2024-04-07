@@ -54,8 +54,8 @@ function modeSwitcher() {
 		sessionStorage.setItem('theme', 'light');
 		changeIconImgSrc(iconSun);
 	} else {
-		document.documentElement.setAttribute('data-theme', 'dark');
-		sessionStorage.setItem('theme', 'dark');
+		document.documentElement.setAttribute('data-theme', 'light');
+		sessionStorage.setItem('theme', 'light');
 		changeIconImgSrc(iconMoon);
 	}
 }
