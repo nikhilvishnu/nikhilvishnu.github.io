@@ -8,3 +8,5 @@ Neo-Luddism is a movement that challenges the uncritical adoption and developmen
 
 Eg: Arguing that AI will replace human jobs on a massive scale, leading to widespread unemployment and economic inequality. They may call for halting AI-driven automation in certain sectors to protect workers' livelihoods.
 
+Wiki : https://en.wikipedia.org/wiki/Neo-Luddism
+
