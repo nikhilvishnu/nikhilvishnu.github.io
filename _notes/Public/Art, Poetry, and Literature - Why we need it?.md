@@ -4,7 +4,7 @@ feed: show
 date: 10-10-2024
 ---
 
-In an interview this question was asked to Javed Akhtar. His answer and the way he explained it was something very intersting. Here is the link to the full [video](https://www.youtube.com/watch?v=BACOis9ykTw and here is his answer. )
+In an interview, Javed Akhtar was asked this question, and his answer, along with the way he explained it, was quite interesting. Here is the link to the full [video](https://www.youtube.com/watch?v=BACOis9ykTw).
 
 "You must have heard so many people talk about 'Save the Tiger' and 'Save Wildlife.' How can you kill animals like this? How can you kill a tiger? Has anyone ever stopped fishing? Nobody. Fishing is actually supposed to be some kind of entertainment. You're retired, you have leisure time, so you go fishing. There's no noise, no commotion, no violent sound, nothing. You're sitting near a lake, and a few of us are having beer.
 
