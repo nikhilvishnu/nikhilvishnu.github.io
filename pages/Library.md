@@ -1,6 +1,6 @@
 ---
 layout: Post
-permalink: /Library
+permalink: /library
 title: Library
 feedformat: row
 ---
