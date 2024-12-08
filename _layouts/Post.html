@@ -53,6 +53,15 @@
     <title>{{page.title}} - {{site.heading}}</title>
     <!-- 100% privacy-first analytics -->
     <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-220LH45EHL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-220LH45EHL');
+    </script>
     <link rel="canonical" href="{{site.url}}{{page.url}}" />
     <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/img/profile.png">
     <link rel="icon" href="{{ site.baseurl }}/assets/img/favicon.png" type="image/png" sizes="16x16" />
