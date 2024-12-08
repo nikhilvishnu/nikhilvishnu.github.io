@@ -30,3 +30,27 @@ feedformat: row
 - **The Upside of Irrationality** by Dan Ariely
 - **What To Say And When To Shut Up** by Rakesh Godhwani
 
+2021
+- **Creative Selection** by Ken Kocienda 
+- **Built to Last** by Jim Collins
+- **Work Rules!** by Laszlo Bock 
+- **Freakonomics** by Steven D. Levitt
+- **The Dilbert Principle** by Scott Adams
+- **Normal People** by Sally Rooney 
+- **Option B** by Sheryl Sandberg
+- **Showa 1926-1939: A History of Japan** by Shigeru Mizuki
+- **Indistractable** by Nir Eyal
+- **Poor Charlie's Almanack** by Charles T. Munger, Peter E. Kaufman
+- **The Midnight Library** by Matt Haig
+- **The Bed of Procrustes** by Nassim Nicholas Taleb
+- **The Four Agreements** by Miguel Ruiz, Janet Mills
+- **The Compound Effect** by Darren Hardy
+- **The Art of Rick and Morty** by James Siciliano
+- **Contagious: Why Things Catch On** by Jonah Berger
+- **The Almanack of Naval Ravikant** by Eric Jorgenson
+- **ഭഗവാന്റെ മരണം** by K.R. Meera
+- **The Psychology of Money** by Morgan Housel
+- **Product-Led SEO** by Eli Schwartz
+- **The Hitchhiker’s Guide to the Galaxy** by Douglas Adams
+
+
