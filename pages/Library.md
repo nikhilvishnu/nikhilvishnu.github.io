@@ -22,3 +22,11 @@ feedformat: row
 - **Laws of UX** by Jon Yablonski
 - **We Need to Talk: How to Have Conversations that Matter** by Celeste Headlee
 
+2022
+- **Atomic Habits** by James Clear *
+- **Seeking Wisdom: From Darwin To Munger** by Peter Bevelin
+- **On Writing Well** by William Zinsser
+- **Introducing Game Theory: A Graphic Guide** by Ivan Pastine
+- **The Upside of Irrationality** by Dan Ariely
+- **What To Say And When To Shut Up** by Rakesh Godhwani
+
