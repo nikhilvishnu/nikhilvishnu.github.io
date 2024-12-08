@@ -1,12 +1,14 @@
 ---
 layout: Post
+content-type: notes
 permalink: /library
 title: Library
-feedformat: row
+format: list
 ---
 
 
-**2024**
+## 2024
+
 - **Island of Bali** by Miguel Covarrubias
 - **How to Take Smart Notes** by Sönke Ahrens
 - **റാം C/O ആനന്ദി** by Akhil P. Dharmajan
@@ -15,14 +17,15 @@ feedformat: row
 - **Into the Uncut Grass** by Trevor Noah 
 - **How to Connect** by Thich Nhat Hanh
 
-**2023**
+##  2023
+
 - **Snow Crash** by Neal Stephenson
 - **Dopamine Nation: Finding Balance in the Age of Indulgence** by Anna Lembke
 - **Games Indians Play** by V. Raghunathan
 - **Laws of UX** by Jon Yablonski
 - **We Need to Talk: How to Have Conversations that Matter** by Celeste Headlee
 
-2022
+## 2022
 - **Atomic Habits** by James Clear *
 - **Seeking Wisdom: From Darwin To Munger** by Peter Bevelin
 - **On Writing Well** by William Zinsser
@@ -30,7 +33,7 @@ feedformat: row
 - **The Upside of Irrationality** by Dan Ariely
 - **What To Say And When To Shut Up** by Rakesh Godhwani
 
-2021
+## 2021
 - **Creative Selection** by Ken Kocienda 
 - **Built to Last** by Jim Collins
 - **Work Rules!** by Laszlo Bock 
