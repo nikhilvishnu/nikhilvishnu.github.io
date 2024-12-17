@@ -10,6 +10,7 @@ format: list
 ## 2024
 
 - **Bird by Bird** by Anne Lamott
+- [[Book Review - Subprime attention crisis by Tim Hwang]]
 - **Island of Bali** by Miguel Covarrubias
 - **How to Take Smart Notes** by Sönke Ahrens
 - **റാം C/O ആനന്ദി** by Akhil P. Dharmajan
