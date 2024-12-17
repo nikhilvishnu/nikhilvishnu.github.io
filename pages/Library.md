@@ -9,6 +9,7 @@ format: list
 
 ## 2024
 
+- **Anything You Want** by  Derek Sivers
 - **Bird by Bird** by Anne Lamott
 - [[Book Review - Subprime attention crisis by Tim Hwang]]
 - **Island of Bali** by Miguel Covarrubias
