@@ -1,4 +1,41 @@
 /*! bulma.io v0.8.2 | MIT License | github.com/jgthms/bulma */
+
+ /* * {
+  font-family: "Public Sans", "Manjari", sans-serif;
+  font-weight: 400;
+  color: var(--color-text);
+}  */
+
+
+/* Example: Styling links */
+a {
+  color: var(--flexoki-blue-400);
+}
+
+/* Hover state for links */
+a:hover {
+  color: var(--flexoki-blue-600);
+}
+
+/* Button styling example */
+button {
+  background-color: var(--flexoki-cyan-400);
+  color: var(--flexoki-paper);
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+
+/* Example for headings */
+h1, h2 {
+  color: var(--flexoki-900);
+}
+
+/* Example for secondary text */
+.secondary-text {
+  color: var(--flexoki-500);
+}
+
 @keyframes spinAround {
   from {
     transform: rotate(0deg); }
@@ -209,7 +246,7 @@ th {
     text-align: left; }
 
 html {
-  background-color: var(--color-bg-main);
+  background-color: var(--flexoki-paper);
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   min-width: 300px;
