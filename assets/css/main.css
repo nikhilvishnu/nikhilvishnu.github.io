@@ -1,10 +1,10 @@
 /*! bulma.io v0.8.2 | MIT License | github.com/jgthms/bulma */
 
- /* * {
-  font-family: "Public Sans", "Manjari", sans-serif;
+* {
   font-weight: 400;
-  color: var(--color-text);
-}  */
+  color: var(--flexoki-black);
+  font-size:1.0rem;
+}  
 
 
 /* Example: Styling links */
