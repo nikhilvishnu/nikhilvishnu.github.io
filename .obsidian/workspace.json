@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "0fbb1bd6b07881e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf4db164cf373963",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c059cb0c7bab6b66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Library.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Library"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa71d01abb190701",
+    "type": "split",
+    "children": [
+      {
+        "id": "6afe1e91ca8ce056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1f3a4c398f341e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "246b6c84f013d3e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cc68b792d1e7b81d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e766c9883c915c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa97073408ade91b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b7840a9627c8026",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "96263715d070592e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "190276e247c0cfad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2555ec62ef6b2295",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c059cb0c7bab6b66",
+  "lastOpenFiles": [
+    "_notes/Public/Book Review - Subprime attention crisis by Tim Hwang.md",
+    "pages/Library.md",
+    "_site/note/Book-Review-Subprime-attention-crisis-by-Tim-Hwang.html",
+    "_site/note.md",
+    "_notes/Public/5 qualities that determine the success of an innovation.md",
+    "_site/note/Sapiens-A-brief-history-of-humankind.html",
+    "_site/note/Persuasion-Principles.html",
+    "_site/note/On-the-Shortness-of-Life-Seneca.html",
+    "_site/note/Neo-Luddism.html",
+    "_site/note/My-year-2016-in-Books.html",
+    "_site/note/Lippitt-Knoster-Model.html",
+    "_site/note/Indistractable-How-to-Control-Your-Attention-and-Choose-Your-Life-Book-Review.html",
+    "_site/note/How-to-use-Psychographics-to-improve-your-product.html",
+    "_site/note/Hermeneutic-Circle.html"
+  ]
+}
