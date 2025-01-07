@@ -8,7 +8,7 @@ format: list
 
 ## 2025
 - [[Book - White holes by Carlo Rovelli]]
-
+- **Art Matters** by Neil Gaiman (Author), Chris Riddell (Illustrator)
 ## 2024
 
 - **Hell Yeah or No: What's Worth Doing** by  Derek Sivers
