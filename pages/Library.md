@@ -7,7 +7,7 @@ format: list
 ---
 
 ## 2025
-- **White Holes** by  Carlo Rovelli
+- [[Book - White holes by Carlo Rovelli]]
 
 ## 2024
 
