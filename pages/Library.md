@@ -6,6 +6,8 @@ title: Library
 format: list
 ---
 
+## 2025
+- **White Holes** by  Carlo Rovelli
 
 ## 2024
 
