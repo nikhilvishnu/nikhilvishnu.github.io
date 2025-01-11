@@ -4,8 +4,6 @@ feed: show
 date: 08-1-2025
 ---
 
-## Overview
-
 **"White Holes"** is a perfect physics book: short, eloquent, revealing, and lyrical. It masterfully explains complex concepts with clarity and poetic beauty, making it an engaging read for anyone curious about the mysteries of the universe.
 
 ## Notes 
